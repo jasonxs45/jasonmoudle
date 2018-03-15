@@ -2,6 +2,7 @@ let jason = {
   name: 'jason',
   sayMyname () {
     console.log(this.name)
+    return this.name
   }
 }
-exports.jason = jason
+module.exports =  jason
