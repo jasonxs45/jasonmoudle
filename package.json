@@ -1,0 +1,15 @@
+{
+  "name": "jasonmodule",
+  "version": "0.0.1",
+  "description": "jason's first test moudle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jason",
+    "matrix"
+  ],
+  "author": "jasonxs45",
+  "license": "ISC"
+}
