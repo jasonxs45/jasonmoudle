@@ -1,6 +1,6 @@
 {
-  "name": "jasonmodule",
-  "version": "0.0.1",
+  "name": "jasonxsmodule",
+  "version": "0.0.2",
   "description": "jason's first node package test",
   "main": "index.js",
   "scripts": {
